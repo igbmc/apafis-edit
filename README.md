@@ -8,9 +8,16 @@ L'exécutable et le script perl fournis dans ce dépôt permettent de modifier ou d
 
 ### Mode d'emploi :
 
+# Version basique
+Télécharger le script exe (windows) ou .pl (linux ou MacOs)
 * Placer la saisine générée par APAFIS dans le répertoire contenant l'exécutable ou le script perl.
-* Lancer le logiciel Apafis-Versioning-v1.00.exe ou executer perl saisine-versioning v1.00.pl
+* Lancer le logiciel saisine-versioning v1.1.exe ou executer 'perl saisine-versioning v1.1.pl'
 * Suivre les instructions à l'écran
+
+# Version graphique
+Télécharger le script exe (windows) ou .pl (linux ou MacOs)
+* Lancer le logiciel Apafis-Visual-Editor-v1.00.exe ou executer 'perl Apafis-Visual-Editor-v1.00.pl'
+* Utiliser l'interface
 
 Pour tous commentaires ou corrections, n'hésitez pas à me contacter.
 
